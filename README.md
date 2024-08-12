@@ -1,1 +1,1 @@
-# virus-scanner
+This project scan the file uploaded and check for any virus.
